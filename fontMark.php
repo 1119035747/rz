@@ -10,4 +10,6 @@
 	$fun = "imagecreatefrom($type)";
 
 	$image = $fun($src);
+	
+	
 ?>
